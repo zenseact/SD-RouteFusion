@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated paper."
+title: "SD-RouteFusion Route Generation Toolkit"
+type: software
+license: MIT
+date-released: 2026-05-20
+authors:
+  - family-names: Voloshyn
+    given-names: Sviatoslav
+  - family-names: Martens
+    given-names: "Bruno K. W."
+  - family-names: Liu
+    given-names: Wangxin
+  - family-names: Vinkås
+    given-names: Jakob
+  - family-names: Fu
+    given-names: Junsheng
+preferred-citation:
+  type: conference-paper
+  title: "SD-RouteFusion: Ego-Trajectory Prediction with SD-Map Route Conditioning"
+  authors:
+    - family-names: Voloshyn
+      given-names: Sviatoslav
+    - family-names: Martens
+      given-names: "Bruno K. W."
+    - family-names: Liu
+      given-names: Wangxin
+    - family-names: Vinkås
+      given-names: Jakob
+    - family-names: Fu
+      given-names: Junsheng
+  year: 2026

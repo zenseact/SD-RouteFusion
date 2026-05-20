@@ -1,0 +1,6 @@
+numpy==1.26.4
+utm==0.7.0
+shapely==2.0.5
+osmnx==1.9.4
+geopy==2.4.1
+pyproj==3.6.1
